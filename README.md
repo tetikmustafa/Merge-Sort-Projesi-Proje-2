@@ -1,4 +1,3 @@
-   Merge-Sort-Projesi-Proje-2
 Patika.dev'in Veri Yapıları ve Algoritmalar eğitiminin 2. projesi.
 
     [16,21,11,8,12,22] -> Merge Sort

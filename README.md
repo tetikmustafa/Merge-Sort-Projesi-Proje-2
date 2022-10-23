@@ -1,4 +1,4 @@
-Patika.dev'in Veri Yapıları ve Algoritmalar eğitiminin 2. projesi.
+[Patika.dev'in](https://www.patika.dev/) Veri Yapıları ve Algoritmalar eğitiminin 2. projesi.
 
     [16,21,11,8,12,22] -> Merge Sort
 
